@@ -3,7 +3,8 @@
 
 ## About me
 
-- 💼 Working as a DevOps Engineer at TAIGER
+- 💼 Working as a DevOps Engineer at wefox
+- ✈️ Creator and main developer of [Totepass](http://totepass.com/), a trip planning application
 - 🎓 Graduated in Computer Engineering at Universidad Carlos III de Madrid
 - 💻  Mainly interested in DevOps, SRE and Artificial Inteligence.
 - :penguin: Linux and open-source enthusiast
@@ -14,19 +15,3 @@
 - [Website](https://alvaro.galisteo.me)
 - [Linkedin](https://linkedin.com/in/alvarogalisteo/)
 - [Email](mailto:alvaro@galisteo.me) + [PGP Key](https://alvaro.galisteo.me/publickey.asc)
-
-
-<!--
-**SrGMC/SrGMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
