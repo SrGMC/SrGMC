@@ -3,7 +3,7 @@
 
 ## About me
 
-- 💼 Working as a DevOps Engineer at wefox
+- 💼 Working as a Site Reliability Engineer at wefox
 - ✈️ Creator and main developer of [Totepass](http://totepass.com/), a trip planning application
 - 🎓 Graduated in Computer Engineering at Universidad Carlos III de Madrid
 - 💻  Mainly interested in DevOps, SRE and Artificial Inteligence.
