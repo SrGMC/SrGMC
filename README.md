@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Álvaro Galisteo </h1>
-<h3 align="center">I am a DevOps engineer that works hard to make software and AI run smoothly, as if by magic.</h3>
+<h3 align="center">I am a DevOps engineer that works hard to make software run smoothly, as if by magic.</h3>
 
 ## About me
 
-- 💼 Working as a Site Reliability Engineer at wefox
+- 💼 Working as a DevOps Engineer at Ryanair Labs
 - ✈️ Creator and main developer of [Totepass](http://totepass.com/), a trip planning application
 - 🎓 Graduated in Computer Engineering at Universidad Carlos III de Madrid
 - 💻  Mainly interested in DevOps, SRE and Artificial Inteligence.
